@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-log-graylog
+    profiles:
+        active: dev
+server:
+    port: 8080
